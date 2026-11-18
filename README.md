@@ -4,7 +4,7 @@
 
 ![登录演示](preview.gif)
 
-> 上图为GIF演示图，可能有点卡，具体效果看实际部署https://xiaobyes.github.io/cat-login-page/。
+> 上图为GIF演示图，可能有点卡，具体效果看实际部署https://xiaobyes.github.io/cat-login-page/
 
 ## 设计与交互
 
